@@ -1,0 +1,41 @@
+#nav-home {
+   width: 30px;
+   filter: invert(1);
+}
+
+
+#nav-logo {
+    width: 30px;
+    filter: invert(1);
+}
+
+#nav-search {
+    width: 30px;
+    filter:invert(1)
+}
+
+body {
+    background-color: #121212;
+}
+
+.album-images {
+    width: 150px;
+    margin: 1%;
+    border-radius: 5%;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h3 {
+    color: #ffffff;
+    margin: 1%;
+
+    
+}
+
+p {
+    color: #b3b3b3;
+    margin: 1%;
+}
